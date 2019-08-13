@@ -798,9 +798,9 @@
       targetConnections="3c232062-802a-44e8-9ecd-fe31bce9ded8"
       fillColor="#ff0080">
     <bounds
-        x="1896"
+        x="1884"
         y="234"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -827,7 +827,7 @@
     <bounds
         x="1956"
         y="171"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"

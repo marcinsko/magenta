@@ -838,16 +838,16 @@
           href="CompositionRelationship_e021fa4c-6ea1-42d1-b448-610f075d9f95.xml#e021fa4c-6ea1-42d1-b448-610f075d9f95"/>
     </sourceConnections>
     <bounds
-        x="1644"
+        x="1608"
         y="84"
-        width="229"
+        width="265"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="89c39be8-dded-41ef-a92f-962fe8ff8f6b"
         targetConnections="c2085332-86db-40cd-a3f8-870961d69a46">
       <bounds
-          x="36"
+          x="72"
           y="36"
           width="120"
           height="55"/>
